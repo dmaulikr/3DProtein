@@ -7,9 +7,9 @@ Proteins have a range of functions with medical, industrial, and fundamental imp
 
 ## Structure
 
-![alt tag](https://github.com/hebe889900/3DProtein/demo/block.png)
-![alt tag](https://github.com/hebe889900/3DProtein/demo/Demo1.png)
-![alt tag](https://github.com/hebe889900/3DProtein/demo/Demo2.png)
+![alt tag](https://raw.githubusercontent.com/hebe889900/3DProtein/master/demo/Block.png)
+![alt tag](https://raw.githubusercontent.com/hebe889900/3DProtein/master/demo/Demo1.png)
+![alt tag](https://raw.githubusercontent.com/hebe889900/3DProtein/master/demo/Demo2.png)
 
 TODO: Write a project description
 
